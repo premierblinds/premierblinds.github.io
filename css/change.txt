@@ -1,0 +1,11 @@
+Old green - #001e18
+
+New dark blue - #00004d
+
+max-width: 150px; -- Logo Size
+
+#e4a92a -- Golden Color
+
+https://breezeblindz.com/
+
+https://signs.breezeblindz.com/
